@@ -20,4 +20,6 @@ typical single cell evolution with 1:50 ratio between the initial and final popu
 linear evolution type 1 ~ 6
 -scSimE31inputMPI.cpp ~scSimE36inputMPI.cpp
 branching evolution type 1 ~ 6
-  
+
+## license
+The codes are released under GPLv3. For further information, check <http://www.gnu.org/licenses/>.
